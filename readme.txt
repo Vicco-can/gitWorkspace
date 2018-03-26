@@ -11,3 +11,4 @@ Test branch.
 no-ff方式合并。
 
 测试farword合并。
+测试stash。
