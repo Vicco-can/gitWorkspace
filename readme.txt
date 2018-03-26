@@ -7,3 +7,4 @@ Test back to the head^.
 Test branch.
 Test branch again.
 测试冲突。
+测试no-ff方式合并。
